@@ -51,7 +51,3 @@ Add `ensure RadioAnimationCommand` to your server or resources cfg file
         }
     },
 ```
-
-# Credits
-
-[Marshular](https://github.com/marshular) - Original creator, gave [explicit permission](https://i.imgur.com/uKDUEd1.png) to release under Three Amigos Modding
