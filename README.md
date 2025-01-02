@@ -16,9 +16,6 @@ Download the release of [ox_lib](https://github.com/overextended/ox_lib) from  &
 
 Add `ensure RadioAnimationCommand` to your server or resources cfg file
 
-Download [animations](https://www.gta5-mods.com/misc/leo-custom-anim) and add to stream folder
-
-
 **YOU MUST USE RPEMOTES**
 
 **Add to rpemotes/client/AnimationListCustom.lua:**
